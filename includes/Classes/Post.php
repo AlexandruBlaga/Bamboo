@@ -203,7 +203,7 @@
 
 					$str .= "<div class='status-post'>
 								<div class='post-profile-pic'>
-									<img src='$profile_pic' width='50'>
+									<img src='$profile_pic' width='50px'>
 								</div>
 
 								<div class='posted-by' style='color:#ACACAC;'>
